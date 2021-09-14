@@ -1,0 +1,15 @@
+h1 {
+  color: blue;
+  font-size: 6 em;
+}
+
+#titulo {
+  color: blueviolet;
+}
+
+@media only screen and(max-width: 600px) {
+  #titulo1 {
+    font-size: 2em;
+    color: brown;
+  }
+} 
